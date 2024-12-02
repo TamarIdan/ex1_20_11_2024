@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\repositoreis\\tasksrepositoreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\repositoreis\\tasksrepositoreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\models\\change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\models\\change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\repositoreis\\changesrepositoreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\repositoreis\\changesrepositoreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\models\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\models\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\services\\cangesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\services\\cangesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\repositoreis\\ichangesrepositoreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\repositoreis\\ichangesrepositoreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\services\\icangesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\services\\icangesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\repositoreis\\userrepositoreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\repositoreis\\userrepositoreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|d:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\web-api\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\repositoreis\\iuserrepositoreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19817CF6-6A1E-471B-BD8F-DC1B6C773154}|users\\users.csproj|solutionrelative:users\\repositoreis\\iuserrepositoreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "users\\Models\\Project.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Models\\Project.cs",
+              "RelativeToolTip": "users\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:46:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersContext.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Models\\UsersContext.cs",
+              "RelativeDocumentMoniker": "users\\Models\\UsersContext.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Models\\UsersContext.cs",
+              "RelativeToolTip": "users\\Models\\UsersContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:45:26.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangesRepositoreis.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Repositoreis\\ChangesRepositoreis.cs",
+              "RelativeDocumentMoniker": "users\\Repositoreis\\ChangesRepositoreis.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Repositoreis\\ChangesRepositoreis.cs",
+              "RelativeToolTip": "users\\Repositoreis\\ChangesRepositoreis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:27:35.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "users\\appsettings.Development.json",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\appsettings.Development.json",
+              "RelativeToolTip": "users\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T16:25:53.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\appsettings.json",
+              "RelativeDocumentMoniker": "users\\appsettings.json",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\appsettings.json",
+              "RelativeToolTip": "users\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T16:24:35.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Change.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Models\\Change.cs",
+              "RelativeDocumentMoniker": "users\\Models\\Change.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Models\\Change.cs",
+              "RelativeToolTip": "users\\Models\\Change.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:05:15.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksRepositoreis.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Repositoreis\\TasksRepositoreis.cs",
+              "RelativeDocumentMoniker": "users\\Repositoreis\\TasksRepositoreis.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Repositoreis\\TasksRepositoreis.cs",
+              "RelativeToolTip": "users\\Repositoreis\\TasksRepositoreis.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:01:29.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Program.cs",
+              "RelativeDocumentMoniker": "users\\Program.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Program.cs",
+              "RelativeToolTip": "users\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:26:12.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CangesServices.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Services\\CangesServices.cs",
+              "RelativeDocumentMoniker": "users\\Services\\CangesServices.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Services\\CangesServices.cs",
+              "RelativeToolTip": "users\\Services\\CangesServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:26:48.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IChangesRepositoreis.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Repositoreis\\IChangesRepositoreis.cs",
+              "RelativeDocumentMoniker": "users\\Repositoreis\\IChangesRepositoreis.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Repositoreis\\IChangesRepositoreis.cs",
+              "RelativeToolTip": "users\\Repositoreis\\IChangesRepositoreis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:27:37.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICangesServices.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Services\\ICangesServices.cs",
+              "RelativeDocumentMoniker": "users\\Services\\ICangesServices.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Services\\ICangesServices.cs",
+              "RelativeToolTip": "users\\Services\\ICangesServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:26:42.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "users\\Models\\Task.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Models\\Task.cs",
+              "RelativeToolTip": "users\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:08:46.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepositoreis.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Repositoreis\\UserRepositoreis.cs",
+              "RelativeDocumentMoniker": "users\\Repositoreis\\UserRepositoreis.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Repositoreis\\UserRepositoreis.cs",
+              "RelativeToolTip": "users\\Repositoreis\\UserRepositoreis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:45:17.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepositoreis.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Repositoreis\\IUserRepositoreis.cs",
+              "RelativeDocumentMoniker": "users\\Repositoreis\\IUserRepositoreis.cs",
+              "ToolTip": "D:\\\u05E2\u05D3\u05D9\u05E0\u05D4 \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D3\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D0\\WEB-API\\\u05E9\u05D1\\ex5_19_11_2024\\users\\users\\Repositoreis\\IUserRepositoreis.cs",
+              "RelativeToolTip": "users\\Repositoreis\\IUserRepositoreis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:01:16.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
